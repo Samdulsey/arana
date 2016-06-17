@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my next big thing. 
 
-Things you may want to cover:
+***************************************************************
 
-* Ruby version
+This is app is supposed to be my project.
 
-* System dependencies
+Dedicated to My_to_be Girlfriend.
 
-* Configuration
+You'll be my one and only. <3
 
-* Database creation
+##############################################################
 
-* Database initialization
 
-* How to run the test suite
+This is a Ruby app running 
 
-* Services (job queues, cache servers, search engines, etc.)
+  Ruby 5.0.0
+  sqlite3 {Development}
 
-* Deployment instructions
+and a bunch of other stuff.
 
-* ...
+The app is hosted on Heroku servers and has repos at Github.
+
+The code and ideas are a developed from ruby tutorials and thus 
+are free for all.
+
+Ruby on Rails
+
+**************************************************************
