@@ -50,7 +50,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 group :test do
 	gem 'minitest-reporters' 
 	gem 'mini_backtrace' 
-	gem 'guard-minitest' 
+	gem 'guard-minitest'
+	gem 'guard' 
 end
 
 group :production do
