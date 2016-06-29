@@ -1,9 +1,11 @@
+<% provide(:title, "Home")%>
+
 <div class="center jumbotron">
 	<h1>arana <small>get connected.</small></h1>
     <h2>
     	 Building the connection, passing the message, conjuring the love, strengthening the bond that was formed 10000 years ago.
     </h2>
-    <%= link_to "Sign up now!", '#', class: "btn btn-lg btn-info" %>
+    <%= link_to "Sign up now!", signup_path , class: "btn btn-lg btn-info" %>
 </div>
 
 <%= link_to image_tag("notification.png", alt: "arana logo"), '#' %>
