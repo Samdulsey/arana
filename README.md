@@ -15,8 +15,8 @@ You'll be my one and only. <3
 
 This is a Ruby app running 
 
-  Ruby 5.0.0
-  sqlite3 {Development}
+       ruby '2.2.4'
+       sqlite3 {Development}
 
 and a bunch of other stuff.
 
@@ -27,4 +27,6 @@ are free for all.
 
 Ruby on Rails
 
+
+    ruby '2.2.4'
 **************************************************************
